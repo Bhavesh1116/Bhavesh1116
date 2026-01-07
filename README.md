@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/snake.xml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/snake.svg" alt="Snake animation" />
 
 ###
 
