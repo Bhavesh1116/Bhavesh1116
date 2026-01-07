@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<a href="https://github.com/MdTabish24">
+<a href="https://github.com/Bhavesh1116">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=280&section=header&text=MOHAMMAD%20TABISH&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20|%20BACKEND%20ARCHITECT&descSize=18&descAlignY=58&descColor=ffffff&stroke=00d4ff&strokeWidth=2"/>
 </a>
 
@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
 </a>
 <img width="10"/>
-<a href="https://github.com/MdTabish24">
+<a href="https://github.com/Bhavesh1116">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
 </a>
 <img width="10"/>
@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"/>
 </a>
 <img width="10"/>
-<a href="https://instagram.com/md.tabish_ansari">
+<a href="https://instagram.com/bhaveshmali1116">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"/>
 </a>
 
