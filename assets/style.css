@@ -1,0 +1,48 @@
+:root{
+  --bg:#020202;
+  --panel:#071009;
+  --glow:#00ff55;
+  --muted:#2b2b2b;
+  --accent:#33ff66;
+  --glass: rgba(0,0,0,0.45);
+  font-family: 'Fira Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;background:var(--bg);color:var(--glow);}
+
+/* matrix background */
+#matrix{position:fixed;inset:0;background:linear-gradient(180deg,#000 0%, #020202 100%);opacity:0.09;z-index:0}
+
+/* terminal */
+.terminal{position:relative;z-index:2;max-width:980px;margin:3vh auto;padding:0;border-radius:8px;overflow:hidden;backdrop-filter: blur(6px);box-shadow:0 8px 40px rgba(0,0,0,0.8)}
+.terminal-header{display:flex;align-items:center;gap:12px;padding:10px 14px;background:linear-gradient(90deg, rgba(0,0,0,0.4), rgba(0,0,0,0.2));color:#999}
+.dot{width:12px;height:12px;border-radius:50%;display:inline-block;box-shadow:0 0 8px rgba(0,0,0,0.6)}
+.dot.red{background:#ff6b6b}
+.dot.yellow{background:#ffd76b}
+.dot.green{background:#6bff9b}
+.title{margin-left:auto;font-size:0.9rem;color:#8fefb1}
+
+.terminal-body{padding:28px;background:linear-gradient(180deg,#00120a 0%, rgba(0,0,0,0.1) 100%);min-height:360px;color:var(--glow);font-size:16px;line-height:1.5}
+.line{margin-bottom:12px}
+.accent{color:var(--accent);font-weight:600}
+.hint{color:#7afc9b;background:rgba(0,0,0,0.25);padding:2px 6px;border-radius:4px}
+
+/* controls */
+.controls{margin:18px 0;display:flex;gap:10px;flex-wrap:wrap}
+.controls button{background:transparent;border:1px solid rgba(51,255,102,0.08);color:var(--glow);padding:6px 12px;border-radius:6px;cursor:pointer;transition:all .18s;font-family:inherit}
+.controls button:hover{transform:translateY(-2px);box-shadow:0 6px 30px rgba(51,255,102,0.06)}
+
+/* prompt */
+.prompt{margin-top:18px;color:#b6f9c9}
+.user{color:#8df3a8;font-weight:700}
+.typed{min-height:18px;display:inline-block}
+.cursor{margin-left:4px;animation:blink 1s infinite;opacity:0.95}
+@keyframes blink{0%{opacity:1}50%{opacity:0.05}100%{opacity:1}}
+
+/* footer */
+.terminal-footer{padding:10px 16px;background:rgba(0,0,0,0.25);font-size:13px;color:#9ee3b2}
+.terminal-footer a{color:var(--glow);text-decoration:none}
+
+/* responsive */
+@media (max-width:600px){.terminal{margin:2vh 12px}}

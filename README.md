@@ -1,18 +1,46 @@
-# 💫 About Me:
-Hi 👋 I’m Bhavesh, a BSc Computer Science (3rd year) student who loves building practical, problem-solving tech 🚀 with a strong focus on AI, Data Science, Cybersecurity, and real-time systems 🤖🔐. I primarily work with Python and backend technologies, and I enjoy creating CLI-based, privacy-aware, and security-focused projects rather than just UI-heavy demos 🧠💻. My key projects include SwarSuraksha (multilingual voice-based driver emotion detection 🎙️🚗), HaatBaat (Indian Sign Language gesture to text & voice using neural networks ✋➡️🗣️), real-time chat systems with integrated chatbots 💬, and educational game concepts 🎮. I’m deeply interested in machine learning, NLP, emotion & gesture recognition, and continuously learning through hackathons, Kaggle datasets, and research-oriented builds 📊📚. I believe in building tech that is useful, secure, and understandable, and I’m always open to collaboration and learning new things 🌱✨.
+# Bhavesh1116 — Hacker UI Profile
 
+```text
+┌─[ Bhavesh1116@github ]──────────────────────────────────────────────┐
+│ Description: Config files for my GitHub profile.                    │
+│ Theme: Hacker UI — green-on-black terminal with interactive pages. │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bhavesh_mali_1116) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-mali-459b20384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshmali1116@gmail.com) 
+<img src="https://img.shields.io/badge/-terminal-%23000000?style=for-the-badge&logo=gnu-bash&logoColor=33FF33" alt="terminal" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavesh1116&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh1116&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh1116&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Welcome — I'm Bhavesh. This profile uses a "hacker terminal" theme: green-on-black, animated cursor, and a GitHub Pages site that behaves like an interactive terminal.
 
----
-[![](https://visitcount.itsvg.in/api?id=Bhavesh1116&icon=0&color=0)](https://visitcount.itsvg.in)
+Highlights
+- Theme: Hacker UI (terminal look)
+- Repo: Config files for my GitHub profile.
+- Live site (if GitHub Pages enabled): https://bhavesh1116.github.io/Bhavesh1116/
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Quick Links
+- Website: https://bhavesh1116.github.io/Bhavesh1116/
+- GitHub: https://github.com/Bhavesh1116
+- Repo: https://github.com/Bhavesh1116/Bhavesh1116
+
+Terminal Preview
+```bash
+$ whoami
+Bhavesh1116
+$ about
+Name: Bhavesh
+Role: Developer / Config enthusiast
+Interests: Dotfiles, UI, GitHub Pages, creative READMEs
+$ open site
+Launching hacker terminal — welcome.
+```
+
+Features implemented
+- A README with terminal-style header and quick links.
+- A GitHub Pages site (index.html, CSS, JS) that provides a full interactive "hacker UI" terminal experience.
+- All branding uses your repo and username; no external personal content added.
+
+How to enable the site
+1. In your repository settings, go to Pages.
+2. Set the source to the `main` branch (or whichever branch you want) and choose `/ (root)`.
+3. Save — GitHub will publish at: https://bhavesh1116.github.io/Bhavesh1116/
+
+If you want me to push these files to your repository now, reply "push" and I will push them. If you'd rather edit text, colors, or links first, tell me what to change.
