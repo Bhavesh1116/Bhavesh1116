@@ -67,6 +67,8 @@
 ###
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/pacman.svg" alt="pacman animation" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/pacman-contribution-graph-dark.svg">
