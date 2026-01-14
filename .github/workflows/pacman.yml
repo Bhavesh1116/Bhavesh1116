@@ -1,19 +1,17 @@
 name: Generate Pacman Graph
 
 on:
-  # Har 24 ghante mein automatically run hoga
   schedule:
-    - cron: "0 0 * * *" 
-  # Manually run karne ke liye option
+    # Har raat 12 baje run hoga
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    name: Generate-Pacman
     runs-on: ubuntu-latest
-    name: generate-pacman-graph
-    
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v3
 
       - name: Generate Pacman Graph
@@ -22,10 +20,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: Bhavesh1116
-          # Output files dist folder mein generate honge
           build_dir: dist
 
-      - name: Push to Output Branch
+      - name: Push Image to Output Branch
         uses: crazy-max/gh-action-github-pages@v3.1.0
         with:
           target_branch: output
