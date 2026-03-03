@@ -211,6 +211,189 @@ mindmap
 
 ---
 
+## � Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh1116&theme=tokyonight&hide_border=true&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" width="800"/>
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Bhavesh1116/SwarSuraksha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh1116&repo=SwarSuraksha&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Bhavesh1116/HaatBaat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh1116&repo=HaatBaat&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 🎓 Skills & Expertise
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+```
+████████████████████░░  85%  Deep Learning & Neural Networks
+███████████████████░░░  80%  Computer Vision (OpenCV, MediaPipe)
+██████████████████░░░░  75%  Natural Language Processing
+█████████████████░░░░░  70%  Speech Recognition & Audio Processing
+```
+
+### 🔐 Cybersecurity
+```
+████████████████░░░░░░  70%  Ethical Hacking & Penetration Testing
+███████████████░░░░░░░  65%  Network Security
+██████████████░░░░░░░░  60%  Cryptography & Privacy Tools
+```
+
+### 💻 Backend Development
+```
+█████████████████░░░░░  75%  Python (Flask, FastAPI)
+████████████████░░░░░░  70%  Node.js & Express.js
+███████████████░░░░░░░  65%  Database Management (MongoDB, SQL)
+██████████████░░░░░░░░  60%  RESTful APIs & WebSockets
+```
+
+</div>
+
+---
+
+## 🌟 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔭 Currently Working On
+- 🎙️ Enhancing SwarSuraksha with more languages
+- 🤖 Building AI-powered security tools
+- 📊 Kaggle competitions & datasets
+- 🔐 Privacy-focused applications
+
+</td>
+<td width="50%">
+
+#### 🌱 Currently Learning
+- Advanced Deep Learning architectures
+- Cloud computing (AWS, Azure)
+- DevOps & CI/CD pipelines
+- Blockchain & Web3 technologies
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 👯 Looking to Collaborate On
+- Open-source AI/ML projects
+- Cybersecurity research
+- Real-time systems
+- Educational tech solutions
+
+</td>
+<td width="50%">
+
+#### 💬 Ask Me About
+- Python, Machine Learning, Deep Learning
+- Computer Vision & NLP
+- Backend development
+- Cybersecurity best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status | Progress |
+|:-----|:------:|:--------:|
+| 🏆 Win a major hackathon | 🔄 In Progress | ████████░░ 80% |
+| 📚 Contribute to 10+ open source projects | 🔄 In Progress | ██████░░░░ 60% |
+| 🎓 Complete advanced ML certifications | 🔄 In Progress | ███████░░░ 70% |
+| 🚀 Launch 3 production-ready projects | 🔄 In Progress | █████░░░░░ 50% |
+| 📝 Publish research paper | 📋 Planned | ███░░░░░░░ 30% |
+
+</div>
+
+---
+
+## 💼 Experience & Projects Timeline
+
+```mermaid
+gantt
+    title My Development Journey
+    dateFormat YYYY-MM
+    section Education
+    BSc Computer Science (1st Year)    :2024-07, 2025-06
+    BSc Computer Science (2nd Year)    :2025-07, 2026-06
+    section Major Projects
+    SwarSuraksha Development           :2025-01, 2025-06
+    HaatBaat Development               :2024-09, 2025-03
+    Real-time Chat System              :2024-11, 2025-02
+    section Learning
+    AI/ML Deep Dive                    :2024-07, 2026-06
+    Cybersecurity Research             :2025-01, 2026-06
+    Hackathons & Competitions          :2024-07, 2026-06
+```
+
+---
+
+## 🛠️ Development Environment
+
+<div align="center">
+
+```yaml
+OS: Windows 11 / Linux (Dual Boot)
+Editor: VS Code with AI extensions
+Terminal: Windows Terminal / Bash
+Version Control: Git & GitHub
+Package Manager: pip, npm, conda
+Preferred Language: Python 🐍
+Coding Style: Clean, documented, secure
+Coffee Consumption: ☕☕☕☕☕ (High)
+```
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░  55.2%
+JavaScript    4 hrs 15 mins  ████░░░░░░░░░░░░░░░░  18.8%
+Research      3 hrs 20 mins  ███░░░░░░░░░░░░░░░░░  14.7%
+Documentation 1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░   6.6%
+Other         1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░   4.7%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🎮 Hobbies & Interests
+
+<div align="center">
+
+| 💻 Tech | 🎵 Music | 📚 Learning | 🎯 Gaming |
+|:-------:|:--------:|:-----------:|:---------:|
+| Coding side projects | Spotify enthusiast | Reading research papers | Strategy games |
+| Open source contributions | Multiple genres | Online courses | Problem-solving games |
+| Tech blogs & articles | Coding playlists | Tech documentaries | Educational games |
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -219,7 +402,68 @@ mindmap
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaveshmali1116@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhavesh_mali_1116?igsh=MnBqY2lnaXAxcGsx)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavesh1116)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bhavesh1116)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
   
+  <br/>
+  
+  ### 📧 Email: bhaveshmali1116@gmail.com
+  ### 💼 Open for collaborations and opportunities!
+  
+</div>
+
+---
+
+## 🎨 Fun Facts About Me
+
+<div align="center">
+
+```javascript
+const bhavesh = {
+    pronouns: "He/Him",
+    code: ["Python", "JavaScript", "HTML/CSS", "SQL"],
+    askMeAbout: ["AI/ML", "Cybersecurity", "Backend Dev", "Data Science"],
+    technologies: {
+        ai: ["TensorFlow", "PyTorch", "Keras", "scikit-learn"],
+        backend: ["Node.js", "Express", "Flask", "FastAPI"],
+        databases: ["MongoDB", "MySQL", "Firebase"],
+        tools: ["Git", "Docker", "Jupyter", "VS Code"]
+    },
+    architecture: ["Microservices", "Event-Driven", "RESTful APIs"],
+    currentChallenge: "Building AI that respects privacy and security",
+    funFact: "I debug with console.log() and print() statements 😄"
+};
+```
+
+</div>
+
+---
+
+## 🌐 Visitor Stats
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Bhavesh1116&icon=5&color=6" alt="Visit Count" />
+</div>
+
+---
+
+## 🎖️ GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/Bhavesh1116?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&config.timezone=Asia%2FKolkata" width="800"/>
+</div>
+
+---
+
+## 🏅 Badges & Certifications
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-DC143C?style=for-the-badge&logo=hackaday&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-00D084?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
