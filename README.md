@@ -265,13 +265,13 @@ graph LR
     E --> F[Present Results]
     F --> G[Iterate & Improve]
     
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#FFA07A
-    style E fill:#98D8C8
-    style F fill:#F7DC6F
-    style G fill:#BB8FCE
+    style A fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#45B7D1,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#FFA07A,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#98D8C8,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#F7DC6F,stroke:#333,stroke-width:2px,color:#000
+    style G fill:#BB8FCE,stroke:#333,stroke-width:2px,color:#000
 ```
 
 </div>
@@ -433,7 +433,7 @@ const myPhilosophy = {
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/snake.svg)
   
 </div>
 
