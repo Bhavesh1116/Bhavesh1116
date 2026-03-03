@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Bhavesh%20Mali&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=4A90E2&strokeWidth=2&animation=twinkling&desc=AI%20Engineer%20|%20Security%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=55&color=gradient&customColorList=6,12,20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Bhavesh%20Mali&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20Security%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=55&color=gradient" />
 </div>
 
 <div align="center">
@@ -146,93 +146,18 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhavesh1116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh1116&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhavesh1116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh1116&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh1116&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavesh1116&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh1116&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Bhavesh1116&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Bhavesh's Focus))
-    AI & ML
-      Deep Learning
-      NLP Projects
-      Computer Vision
-      Neural Networks
-    Cybersecurity
-      Ethical Hacking
-      Privacy Tools
-      Secure Systems
-    Real-time Systems
-      WebSocket Apps
-      Live Processing
-      Performance Optimization
-    Learning
-      Hackathons
-      Kaggle Competitions
-      Research Papers
-```
-
-</div>
-
----
-
-## 🏅 Achievements & Highlights
-
-<div align="center">
-
-| 🎓 Education | 🏆 Competitions | 📚 Learning |
-|:---:|:---:|:---:|
-| BSc Computer Science | Hackathon Participant | Kaggle Datasets |
-| 2nd Year Student | Project Showcases | Research-Oriented |
-| AI/ML Specialization | Team Collaborations | Continuous Growth |
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31frhsogdnfwyq3njzwsqqq4yxxa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31frhsogdnfwyq3njzwsqqq4yxxa&count=5&unique=true&width=600" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
-## � Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh1116&theme=tokyonight&hide_border=true&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" width="800"/>
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Bhavesh1116/SwarSuraksha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh1116&repo=SwarSuraksha&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Bhavesh1116/HaatBaat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh1116&repo=HaatBaat&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 🎓 Skills & Expertise
+## � Skills & Expertise
 
 <div align="center">
 
@@ -263,7 +188,7 @@ mindmap
 
 ---
 
-## 🌟 What I'm Up To
+## � What I'm Up To
 
 <table>
 <tr>
@@ -289,7 +214,7 @@ mindmap
 <tr>
 <td width="50%">
 
-#### 👯 Looking to Collaborate On
+#### � Looking to Collaborate On
 - Open-source AI/ML projects
 - Cybersecurity research
 - Real-time systems
@@ -310,7 +235,7 @@ mindmap
 
 ---
 
-## 🎯 2026 Goals
+## � 2026 Goals
 
 <div align="center">
 
@@ -326,28 +251,7 @@ mindmap
 
 ---
 
-## 💼 Experience & Projects Timeline
-
-```mermaid
-gantt
-    title My Development Journey
-    dateFormat YYYY-MM
-    section Education
-    BSc Computer Science (1st Year)    :2024-07, 2025-06
-    BSc Computer Science (2nd Year)    :2025-07, 2026-06
-    section Major Projects
-    SwarSuraksha Development           :2025-01, 2025-06
-    HaatBaat Development               :2024-09, 2025-03
-    Real-time Chat System              :2024-11, 2025-02
-    section Learning
-    AI/ML Deep Dive                    :2024-07, 2026-06
-    Cybersecurity Research             :2025-01, 2026-06
-    Hackathons & Competitions          :2024-07, 2026-06
-```
-
----
-
-## 🛠️ Development Environment
+## �️ Development Environment
 
 <div align="center">
 
@@ -366,9 +270,10 @@ Coffee Consumption: ☕☕☕☕☕ (High)
 
 ---
 
-## 📊 Weekly Development Breakdown
+## � Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
+<div align="center">
+
 ```text
 Python       12 hrs 30 mins  ████████████░░░░░░░░  55.2%
 JavaScript    4 hrs 15 mins  ████░░░░░░░░░░░░░░░░  18.8%
@@ -376,7 +281,8 @@ Research      3 hrs 20 mins  ███░░░░░░░░░░░░░░
 Documentation 1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░   6.6%
 Other         1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░   4.7%
 ```
-<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
@@ -384,12 +290,22 @@ Other         1 hr 5 mins    █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-| 💻 Tech | 🎵 Music | 📚 Learning | 🎯 Gaming |
+| 💻 Tech | 🎵 Music | � Learning | 🎯 Gaming |
 |:-------:|:--------:|:-----------:|:---------:|
 | Coding side projects | Spotify enthusiast | Reading research papers | Strategy games |
 | Open source contributions | Multiple genres | Online courses | Problem-solving games |
 | Tech blogs & articles | Coding playlists | Tech documentaries | Educational games |
 
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31frhsogdnfwyq3njzwsqqq4yxxa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31frhsogdnfwyq3njzwsqqq4yxxa&count=5&unique=true&width=600" alt="Spotify recently played" />
+  </a>
 </div>
 
 ---
@@ -407,7 +323,7 @@ Other         1 hr 5 mins    █░░░░░░░░░░░░░░░░
   
   <br/>
   
-  ### 📧 Email: bhaveshmali1116@gmail.com
+  ### � Email: bhaveshmali1116@gmail.com
   ### 💼 Open for collaborations and opportunities!
   
 </div>
@@ -439,22 +355,6 @@ const bhavesh = {
 
 ---
 
-## 🌐 Visitor Stats
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bhavesh1116&icon=5&color=6" alt="Visit Count" />
-</div>
-
----
-
-## 🎖️ GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Bhavesh1116?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&followup.sections=repositories&config.timezone=Asia%2FKolkata" width="800"/>
-</div>
-
----
-
 ## 🏅 Badges & Certifications
 
 <div align="center">
@@ -468,41 +368,51 @@ const bhavesh = {
 
 ---
 
-## 💭 Random Dev Quote
+## 🎨 Profile Trophy
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Bhavesh1116&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-graph.svg">
-  <img alt="github contribution graph" src="https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-graph.svg">
-</picture>
-
----
-
-## 🎨 Profile Trophy
+## 💭 Random Dev Quote
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Bhavesh1116&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
+
+---
+
+## � Contribution Snake
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Bhavesh1116/Bhavesh1116/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+  [![Bhavesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavesh1116&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+---
+
+## � Visitor Count
+
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Bhavesh1116/count.svg)
   
 </div>
 
@@ -512,10 +422,10 @@ const bhavesh = {
   
   ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Coding GIF" />
   
   ### ⭐ From [Bhavesh1116](https://github.com/Bhavesh1116) with 💙
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,12,20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
   
 </div>
