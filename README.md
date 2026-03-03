@@ -458,7 +458,7 @@ const myPhilosophy = {
   ### ⭐ From [Bhavesh1116](https://github.com/Bhavesh1116)
   ### Problem Solver • Team Leader • Solution Designer 💙
   
-  ![Visitor Count](https://profile-counter.glitch.me/Bhavesh1116/count.svg)
+  ![Visitor Count](https://count.getloli.com/get/@Bhavesh1116?theme=rule34)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
   
