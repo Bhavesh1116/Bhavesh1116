@@ -51,7 +51,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🎯 Problem Solving
 **Identifying & Solving Real Issues**
@@ -62,7 +62,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 - End-to-end thinking
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 👥 Leadership
 **Leading Teams to Success**
@@ -73,7 +73,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 - Driving results
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🎤 Presentation
 **Communicating with Impact**
@@ -93,7 +93,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 Skin Cancer Classification System
 **Deep Learning Pipeline**
@@ -111,7 +111,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 **Tech:** PyTorch, EfficientNet-B4, ResNet18, Pandas, Scikit-Learn
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔄 SecureFlow ETL Pipeline
 **Distributed Data Processing System**
@@ -132,7 +132,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 DataSense AI
 **Automated EDA & Preprocessing Platform**
@@ -150,7 +150,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 **Tech:** Flask, Pandas, Scikit-Learn, Chart.js
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Explore More Projects
 **Check out my GitHub!**
@@ -173,24 +173,56 @@ I am constantly building new things and exploring various technologies, from AI/
 
 <div align="center">
 
-### Languages & Frameworks
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🚀 Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask-SocketIO](https://img.shields.io/badge/Flask--SocketIO-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### Databases & Tools
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Athena](https://img.shields.io/badge/Amazon%20Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🧠 Specializations
+![AI Tool Integration](https://img.shields.io/badge/AI%20Tool%20Integration-8A2BE2?style=for-the-badge)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous%20AI%20Agents-FF69B4?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-00BFFF?style=for-the-badge)
+![Data Pipelines (ETL/ELT)](https://img.shields.io/badge/Data%20Pipelines%20(ETL%2FELT)-32CD32?style=for-the-badge)
 
 </div>
 
@@ -205,6 +237,7 @@ I am constantly building new things and exploring various technologies, from AI/
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -224,7 +257,7 @@ I am constantly building new things and exploring various technologies, from AI/
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌟 Leadership Qualities
 ```
@@ -237,7 +270,7 @@ I am constantly building new things and exploring various technologies, from AI/
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎤 Presentation Skills
 ```
@@ -287,7 +320,7 @@ graph LR
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔭 Working On
 - 🎙️ Scaling SwarSuraksha to more languages
@@ -297,7 +330,7 @@ graph LR
 - 👥 Leading collaborative projects
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 Learning & Growing
 - Advanced problem-solving techniques
@@ -309,7 +342,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👯 Open to Collaborate On
 - Real-world problem-solving projects
@@ -319,7 +352,7 @@ graph LR
 - Team-based challenges
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 Let's Talk About
 - Project ideas & solutions
@@ -434,15 +467,16 @@ const myPhilosophy = {
 
 ---
 
-## 🤣 Daily Dev Joke
+## 💡 Developer Quote
 
 <div align="center">
-  <a href="https://github.com/15Dkatz/official_joke_api">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
   </a>
 </div>
 
 ---
+
 ## 🐍 Contribution Activity
 
 <div align="center">
