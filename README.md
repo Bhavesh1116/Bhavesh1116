@@ -196,6 +196,15 @@ I am constantly building new things and exploring various technologies, from AI/
 
 ---
 
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Bhavesh1116&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="Bhavesh1116 Trophies" />
+  </a>
+</div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -425,6 +434,15 @@ const myPhilosophy = {
 
 ---
 
+## 🤣 Daily Dev Joke
+
+<div align="center">
+  <a href="https://github.com/15Dkatz/official_joke_api">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+  </a>
+</div>
+
+---
 ## 🐍 Contribution Activity
 
 <div align="center">
