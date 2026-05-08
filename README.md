@@ -64,7 +64,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 </td>
 <td width="33%" align="center">
 
-### � Leadership
+### 👥 Leadership
 **Leading Teams to Success**
 
 - Team coordination
@@ -75,7 +75,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 </td>
 <td width="33%" align="center">
 
-### � Presentation
+### 🎤 Presentation
 **Communicating with Impact**
 
 - Clear articulation
@@ -95,38 +95,38 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 <tr>
 <td width="50%">
 
-### 🎙️ SwarSuraksha
-**Multilingual Driver Safety System**
+### 🔬 Skin Cancer Classification System
+**Deep Learning Pipeline**
 
-**The Problem:** Road accidents due to driver emotional distress
+**The Problem:** Multi-class skin cancer classification with severe class imbalance
 
 **My Role:**
-- 🎯 Conceptualized the solution
-- 👥 Led the development team
-- 🎤 Presented at competitions
-- 🔧 Designed the architecture
+- 🏗️ Built complete end-to-end data pipeline
+- ⚖️ Tackled class imbalance with weighted sampling
+- 🧠 Trained dual-architecture models (ResNet/EfficientNet)
+- ⚙️ Implemented custom LR schedulers
 
-**Impact:** Voice-based emotion detection for Indian drivers in multiple languages
+**Impact:** Highly accurate bulk inference pipeline for minority classes
 
-**Tech:** Python, TensorFlow, Speech Recognition, NLP
+**Tech:** PyTorch, EfficientNet-B4, ResNet18, Pandas, Scikit-Learn
 
 </td>
 <td width="50%">
 
-### ✋ HaatBaat
-**Indian Sign Language Recognition**
+### 🔄 SecureFlow ETL Pipeline
+**Distributed Data Processing System**
 
-**The Problem:** Communication barrier for sign language users
+**The Problem:** Processing multi-format data with PII and anomalies
 
 **My Role:**
-- 💡 Identified the accessibility gap
-- 🎨 Designed user-friendly solution
-- 👥 Coordinated development
-- 📊 Presented to stakeholders
+- 🏗️ Architected 1 Producer → 5 Parallel Transformers pipeline
+- 🛡️ Implemented dynamic PII masking & validation
+- ⚡ Configured rate limiting (5000 msg/sec)
+- 📊 Built real-time system monitoring dashboard
 
-**Impact:** Real-time gesture to text/voice conversion
+**Impact:** Robust fault-tolerant pipeline with Dead Letter Queue
 
-**Tech:** Python, OpenCV, Deep Learning, MediaPipe
+**Tech:** Python, Apache Kafka, Docker, Pandas
 
 </td>
 </tr>
@@ -134,38 +134,34 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 <tr>
 <td width="50%">
 
-### 💬 Real-Time Chat System
-**Intelligent Communication Platform**
+### 🤖 DataSense AI
+**Automated EDA & Preprocessing Platform**
 
-**The Problem:** Need for secure, real-time messaging
+**The Problem:** Manual, time-consuming data cleaning and EDA
 
 **My Role:**
-- 🏗️ Architected the system
-- 🔐 Ensured security measures
-- 🤖 Integrated AI chatbot
-- 🎯 Managed deployment
+- 💻 Built end-to-end full-stack architecture independently
+- 🧹 Automated complex data cleaning pipelines
+- 📊 Implemented interactive EDA visualizations
+- ⚡ Developed auto Python code generation feature
 
-**Impact:** Scalable chat platform with AI assistance
+**Impact:** Accelerated data preprocessing with interactive dashboards
 
-**Tech:** Node.js, Socket.io, MongoDB, Python
+**Tech:** Flask, Pandas, Scikit-Learn, Chart.js
 
 </td>
 <td width="50%">
 
-### 🎮 Educational Game Concepts
-**Gamified Learning Platform**
+### 🚀 Explore More Projects
+**Check out my GitHub!**
 
-**The Problem:** Low student engagement in learning
+I am constantly building new things and exploring various technologies, from AI/ML models to full-stack applications.
 
-**My Role:**
-- 🎨 Designed engaging concepts
-- 📊 Planned learning modules
-- 👥 Led creative team
-- 🎤 Pitched to educators
+- 🌟 Star my repositories
+- 💡 Explore my code
+- 🤝 Let's collaborate on real-world problems
 
-**Impact:** Making education interactive and fun
-
-**Tech:** Python, Game Development, Analytics
+**[View All Projects →](https://github.com/Bhavesh1116)**
 
 </td>
 </tr>
@@ -213,7 +209,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 
 ---
 
-## � What Sets Me Apart
+## 🌟 What Sets Me Apart
 
 <div align="center">
 
@@ -234,7 +230,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 </td>
 <td width="50%">
 
-### � Presentation Skills
+### 🎤 Presentation Skills
 ```
 ✓ Clear & engaging communication
 ✓ Visual storytelling
@@ -252,7 +248,7 @@ print("I don't just code - I lead, design, and deliver solutions! 🚀")
 
 ---
 
-## � My Approach to Projects
+## 🛠️ My Approach to Projects
 
 <div align="center">
 
@@ -316,7 +312,7 @@ graph LR
 </td>
 <td width="50%">
 
-### � Let's Talk About
+### 💬 Let's Talk About
 - Project ideas & solutions
 - Leadership experiences
 - Presentation techniques
